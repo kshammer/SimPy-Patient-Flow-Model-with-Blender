@@ -239,7 +239,7 @@ class ExitFlow(object):
 
 
 class BMT_Patient(object):
-    """ Models an BMT patient
+    """ Models a BMT patient
 
         Parameters
         ----------
