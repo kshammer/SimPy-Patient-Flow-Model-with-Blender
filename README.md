@@ -1,2 +1,2 @@
-# SimPy-Patient-Flow-Model
-Discrete Event Modeling with SimPy
+# SimPy-Patient-Flow-Model-with-Blender
+Discrete Event Modeling with SimPy and Blender
